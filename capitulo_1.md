@@ -16,3 +16,4 @@ Também se usou o TAC toracico, angio-TAC, para avaliar a presença de TEP.
 | CO-RARDS 4    | Alto |      anormalidades suspeitas de COVID-19|
 | CO-RARDS 5 | Muito alto   | COVID-19 tipico |
 | CO-RARDS 6 |PCR +| |
+
